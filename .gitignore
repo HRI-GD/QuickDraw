@@ -1,0 +1,16 @@
+# Unreal-generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.log
+
+# Packaged Windows game, regenerated from the project
+/QuickDraw/
